@@ -1,1 +1,1 @@
-# Lab15
+Në këtë laborator kam ndërtuar katër funksione rekursive në Python 3.11, secilin në skedarin e vet. Kam përdorur vetëm struktura të thjeshta si if/else, input(), print() dhe assert për testim. Nuk kam përdorur lista, cikle apo OOP, sipas kufizimeve të dhëna.
